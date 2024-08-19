@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 1 of 13 Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/task_13_Aug_2024/Task02.py" afterDir="false" />
+    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 2 of 13 Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/task_17_Aug_2024/Task03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Python.Lab012.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
+    "Python.Task03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -231,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723548295286</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task 2 of 13 Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1723550226985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723550226985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +258,7 @@
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All the files for the 10th Aug 2024 are added" />
     <MESSAGE value="Task 1 of 13 Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 of 13 Aug 2024 added" />
+    <MESSAGE value="Task 2 of 13 Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2 of 13 Aug 2024 added" />
   </component>
 </project>
