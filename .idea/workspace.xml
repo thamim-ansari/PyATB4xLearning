@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 4 of 17 Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/task_17_Aug_2024/Task05.py" afterDir="false" />
+    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 6 of 17 Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/task_20_Aug_2024/Task07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,9 @@
     "Python.Task02.executor": "Run",
     "Python.Task03.executor": "Run",
     "Python.Task04.executor": "Run",
+    "Python.Task05.executor": "Run",
+    "Python.Task06.executor": "Run",
+    "Python.Task07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -257,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724067610607</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task 5 of 17 Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1724068367048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724068367048</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task 6 of 17 Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1724068702707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724068702707</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +297,8 @@
     <MESSAGE value="Task 2 of 13 Aug 2024 added" />
     <MESSAGE value="Task 3 of 17 Aug 2024 added" />
     <MESSAGE value="Task 4 of 17 Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 4 of 17 Aug 2024 added" />
+    <MESSAGE value="Task 5 of 17 Aug 2024 added" />
+    <MESSAGE value="Task 6 of 17 Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 6 of 17 Aug 2024 added" />
   </component>
 </project>
