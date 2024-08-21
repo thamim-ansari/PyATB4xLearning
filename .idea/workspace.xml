@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 6 of 17 Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/task_20_Aug_2024/Task07.py" afterDir="false" />
+    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="updated Task 7 20-Aug-2024 added">
+      <change afterPath="$PROJECT_DIR$/src/task_20_Aug_2024/Task08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Python.Task05.executor": "Run",
     "Python.Task06.executor": "Run",
     "Python.Task07.executor": "Run",
+    "Python.Task08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -276,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724068702707</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task 7 20-Aug-2024 added">
+      <option name="closed" value="true" />
+      <created>1724243793519</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724243793519</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated Task 7 20-Aug-2024 added">
+      <option name="closed" value="true" />
+      <created>1724243858195</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724243858195</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,6 +316,8 @@
     <MESSAGE value="Task 4 of 17 Aug 2024 added" />
     <MESSAGE value="Task 5 of 17 Aug 2024 added" />
     <MESSAGE value="Task 6 of 17 Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 6 of 17 Aug 2024 added" />
+    <MESSAGE value="Task 7 20-Aug-2024 added" />
+    <MESSAGE value="updated Task 7 20-Aug-2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Task 7 20-Aug-2024 added" />
   </component>
 </project>
