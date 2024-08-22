@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 8 20-Aug-2024 added">
-      <change afterPath="$PROJECT_DIR$/src/task_20_Aug_2024/Task09.py" afterDir="false" />
+    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 9 20-Aug-2024 added">
+      <change afterPath="$PROJECT_DIR$/src/task_22_Aug_2024/Task10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Python.Task07.executor": "Run",
     "Python.Task08.executor": "Run",
     "Python.Task09.executor": "Run",
+    "Python.Task10.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -302,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724244763053</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Task 9 20-Aug-2024 added">
+      <option name="closed" value="true" />
+      <created>1724245798288</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724245798288</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +337,7 @@
     <MESSAGE value="Task 7 20-Aug-2024 added" />
     <MESSAGE value="updated Task 7 20-Aug-2024 added" />
     <MESSAGE value="Task 8 20-Aug-2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 8 20-Aug-2024 added" />
+    <MESSAGE value="Task 9 20-Aug-2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 9 20-Aug-2024 added" />
   </component>
 </project>
