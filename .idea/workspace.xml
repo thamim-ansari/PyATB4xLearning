@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Task 10 22-Aug-2024 added">
-      <change afterPath="$PROJECT_DIR$/src/task_22_Aug_2024/Task11.py" afterDir="false" />
+    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="moved exercises to Learning exercises directory">
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_13082024/Lab0025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +57,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab00023.executor": "Run",
     "Python.Lab001.executor": "Run",
+    "Python.Lab0015.executor": "Run",
+    "Python.Lab0016.executor": "Run",
+    "Python.Lab0017.executor": "Run",
+    "Python.Lab0019.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab0020.executor": "Run",
+    "Python.Lab0022.executor": "Run",
+    "Python.Lab0024.executor": "Run",
+    "Python.Lab0025.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
@@ -71,6 +91,13 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\pythonProject\src\Learning exercises" />
+      <recent name="C:\Users\USER\PycharmProjects\pythonProject\src\Tasks" />
+      <recent name="C:\Users\USER\PycharmProjects\pythonProject\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -320,7 +347,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724305399302</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Task 11 22-Aug-2024 added">
+      <option name="closed" value="true" />
+      <created>1724311340282</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724311340282</updated>
+    </task>
+    <task id="LOCAL-00016" summary="moved exercises to Learning exercises directory">
+      <option name="closed" value="true" />
+      <created>1724311527108</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724311527108</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +391,8 @@
     <MESSAGE value="Task 8 20-Aug-2024 added" />
     <MESSAGE value="Task 9 20-Aug-2024 added" />
     <MESSAGE value="Task 10 22-Aug-2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 10 22-Aug-2024 added" />
+    <MESSAGE value="Task 11 22-Aug-2024 added" />
+    <MESSAGE value="moved exercises to Learning exercises directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved exercises to Learning exercises directory" />
   </component>
 </project>
