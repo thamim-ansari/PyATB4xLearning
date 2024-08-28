@@ -4,19 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Learning exercise for Aug 22 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_24082024/Lab072.py" afterDir="false" />
+    <list default="true" id="d519ad07-7ae4-435a-a419-dc8c2f8dea26" name="Changes" comment="Learning exercise for Aug 24 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/normal_dir/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/python_package/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning exercises/ex_27082024/python_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,6 +131,24 @@
     "Python.Lab070.executor": "Run",
     "Python.Lab071.executor": "Run",
     "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.Task03.executor": "Run",
@@ -437,7 +468,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724843564492</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Learning exercise for Aug 24 2024 added">
+      <option name="closed" value="true" />
+      <created>1724844549209</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724844549209</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,6 +510,7 @@
     <MESSAGE value="Learning exercise for Aug 17 2024 added" />
     <MESSAGE value="Learning exercise for Aug 20 2024 added" />
     <MESSAGE value="Learning exercise for Aug 22 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning exercise for Aug 22 2024 added" />
+    <MESSAGE value="Learning exercise for Aug 24 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning exercise for Aug 24 2024 added" />
   </component>
 </project>
